@@ -17,15 +17,17 @@ Usage: ./snokkit [COMMAND] [FLAG]
 
 Commands:
 <ul>
-    <li>list     List available interfaces</li>
-    <li>capture  Start capturing packets</li>
-    <li>export   Export captured packets to a file</li>
-    <li>help     Print this message or the help of the given subcommand(s)</li>
+    <li><b>list</b> - List available interfaces</li>
+    <li><b>capture</b> - Start capturing packets</li>
+    <li><b>export</b> - Export captured packets to a file</li>
+    <li><b>help</b> - Print this message or the help of the given subcommand(s)</li>
 </ul>
 
 Options:
-  -h, --help     Print help
-  -V, --version  Print version
+<ul>
+    <li><b>-h, --help</b> - Print help</li>
+    <li><b>-V, --version</b> - Print version</li>
+</ul>
 
 
 ## Example
