@@ -3,9 +3,9 @@
 
 ## Install
 
-1. Download and move into project root folder
+1. Download and navigate to root folder
 2. Build with ```cargo build --release```
-3. Navigate to ```/target/release```
+3. Navigate to ```/target/release/```
 
 On Linux, you’ll need to run your binary as root (or with CAP_NET_RAW) to access raw packets:
 
