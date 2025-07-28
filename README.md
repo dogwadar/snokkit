@@ -19,7 +19,7 @@ Commands:
 <ul>
     <li><b>list</b> - List available interfaces</li>
     <li><b>capture</b> - Start capturing packets</li>
-    <li><b>export</b> - Export captured packets to a file</li>
+    <li><b>export</b> - Export captured packets to a file (will be removed and set as default)</li>
     <li><b>help</b> - Print this message or the help of the given subcommand(s)</li>
 </ul>
 
